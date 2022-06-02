@@ -1,0 +1,2 @@
+# myfig
+combined with Obsidian
